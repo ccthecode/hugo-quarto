@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: bdff662b-8aef-4eae-b2b9-0be2ec9138c6
+      url: 'https://ccthecode.quarto.pub/mysite'
